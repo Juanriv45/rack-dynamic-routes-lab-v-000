@@ -12,5 +12,4 @@ class Application
       resp.status = 404
     end
   end
-
 end
